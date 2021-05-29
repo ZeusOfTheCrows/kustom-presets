@@ -20,4 +20,4 @@ Casio W-86 Illuminator
 
 * Fonts: Eurostile (various); [DSeg7/14/Weather](https://www.keshikan.net/fonts-e.html)
 
-  <img src="./previews/Casio_W_86_illuminator.png" style="width:25%;" />
+  <img src="./previews/Casio_W_86_Illuminator.png" style="width:25%;" />
