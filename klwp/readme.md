@@ -2,6 +2,25 @@
 
 ----
 
+### Wood Panelling
+
+My entry to the /r/androidthemes monthly contest
+
+inspired by retro car header units, and VCRs. the central display shows the  current song, or three notifications + wifi ssid if no music is playing. the line under the music is track percentage. the needle meter is  battery, the bars on the left and right are signal, wifi, and bluetooth  speaker battery (if applicable). the icons are bluetooth on/connected,  charging/fast, data, and wifi on/connected.
+
+- Fonts: 
+	- [DSegstended](https://github.com/ZeusOfTheCrows/DSegstended/) my own fork of keshikan's dseg font, that adds cyrillic/greek
+	- Eurostile SemiBold
+	- Rage italic [vice city] removed from shared version, you know how rockstar are
+	- Roboto
+- Iconfont: material-sharp
+- Icon pack: [Arc](https://play.google.com/store/apps/details?id=com.coccco28.arc)
+- Everything else: i made myself
+
+​	<img src="./previews/Wood_Panelling.png" width="33%;" />
+
+----
+
 ### Retro Gruvbox
 
 Designed around the Gruvbox colourscheme, bright and vibrant
